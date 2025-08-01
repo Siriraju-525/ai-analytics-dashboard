@@ -3,6 +3,11 @@
 
 An interactive, responsive, and visually stunning **AI-powered analytics dashboard**, created to demonstrate modern web development skills, AI-assisted coding, and front-end design expertise.
 
+## 🤖 AI Usage Report
+
+- **v0.dev** — Used to design the full UI layout and components.
+- **ChatGPT** — Helped with code, debugging, and writing README.
+- **Vercel** — Used for deployment (with help from AI guides).
 
 ## 📍 Project Overview
 
